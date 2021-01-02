@@ -7,17 +7,12 @@
 1. <a href = "#Notebook-Contents" >Notebook Contents </a>
 1. <a href = "#Authors-Acknowledgements" >Authors, Acknowledgements </a>
 
-<br>
-<br>
 
 # Project Overview
 
 For this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. Below you can see an example of what the dashboard could look like displaying articles on the IBM Watson Platform.
 
 <img src = "img/IBM.png">
-
-<br>
-<br>
 
 # Libraries
 
@@ -28,12 +23,8 @@ For this project I will analyze the interactions that users have with articles o
 - seaborn
 - sklearn
 
-<br>
-<br>
-
 # File Descriptions
 
-    
     |-- README.md-------------------------#Readme File
     |-- Recommendations_with_IBM.html-----#HTML Converted Project
     |-- Recommendations_with_IBM.ipynb----#Project in Jupyter Notebook
@@ -45,19 +36,12 @@ For this project I will analyze the interactions that users have with articles o
     |-- top_5.p---------------------------#Pickled Test File
     |-- user_item_matrix.p----------------#Pickled User Item Matrix
 
-
-<br>
-<br>
-
 # Notebook Contents
 
     I. Exploratory Data Analysis
     II. Rank Based Recommendations
     III. User-User Based Collaborative Filtering
     IV. Matrix Factorization
-
-<br>
-<br>
     
 # Authors, Acknowledgements
 
